@@ -1,0 +1,3 @@
+pandas
+openpyxl
+pyodbc; platform_system == "Windows"
